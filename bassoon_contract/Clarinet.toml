@@ -10,6 +10,11 @@ path = 'contracts/blacklist_voters.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.detailed_receipts_multi_sending]
+path = 'contracts/detailed_receipts_multi_sending.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.dispute_resolution]
 path = 'contracts/dispute_resolution.clar'
 clarity_version = 2
